@@ -2,9 +2,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mashurimansur?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmashurimansur&screen_name=mashurimansur)
 
 ## I'm Junior Backend Developer
-- 🔭 I’m currently working on freelance backend developer
+- 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love playing game and watching anime
+- ⚡ Fun fact: I love playing game and watching anime 
 
 ### Connect with me:
 
