@@ -23,7 +23,7 @@
 
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashurimansur&layout=compact&hide=html" alt="mashurimansur" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashurimansur&show_icons=true" alt="mashurimansur" /></p>
 
 
