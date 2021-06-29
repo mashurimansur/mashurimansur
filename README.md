@@ -15,14 +15,6 @@
 
 <br />
 
----
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashurimansur&layout=compact&hide=html" alt="mashurimansur" /></p>
-
----
-
-![Hury's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashurimansur&show_icons=true&theme=radical)
-<br />
-
 [website]: https://mashurimansur.github.io/
 [twitter]: https://twitter.com/mashurimansur
 [instagram]: https://www.instagram.com/mashuri_mansur/
