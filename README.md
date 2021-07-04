@@ -15,10 +15,9 @@
 
 <br />
 <br />
-<p align="left">
-  <img alt="Github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=mashurimansur&count_private=true&show_icons=true&theme=tokyonight" />
-</p>
-<br />
+<!-- <p align="left">
+<img alt="Github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=mashurimansur&count_private=true&show_icons=true&theme=tokyonight" />
+</p> -->
 
 [website]: https://mashurimansur.github.io/
 [twitter]: https://twitter.com/mashurimansur
