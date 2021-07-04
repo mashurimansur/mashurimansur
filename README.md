@@ -14,6 +14,11 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+<p align="left">
+  <img alt="Github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=mashurimansur&count_private=true&show_icons=true&theme=tokyonight" />
+</p>
+<br />
 
 [website]: https://mashurimansur.github.io/
 [twitter]: https://twitter.com/mashurimansur
