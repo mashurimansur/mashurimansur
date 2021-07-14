@@ -6,16 +6,16 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love playing game and watching anime 
 
+<!--
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+ 
 <br />
-<br />
-<!-- <p align="left">
+<br /> <p align="left">
 <img alt="Github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=mashurimansur&count_private=true&show_icons=true&theme=tokyonight" />
 </p> -->
 
