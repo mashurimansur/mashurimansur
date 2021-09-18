@@ -1,5 +1,4 @@
 ### Hi there, I'm Hury <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Twitter Follow](https://img.shields.io/twitter/follow/mashurimansur?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmashurimansur&screen_name=mashurimansur)
 
 ## I'm Backend Engineer
 - 🔭 I’m currently working on something cool 😎
