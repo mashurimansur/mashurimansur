@@ -57,3 +57,7 @@
 <img src="https://raw.githubusercontent.com/mashurimansur/mashurimansur/output/snake.svg" alt="Snake animation" />
 
 ###
+
+Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
