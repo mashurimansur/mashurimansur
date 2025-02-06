@@ -62,11 +62,11 @@ Development Breakdown
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript         604 hrs 4 mins  ████████████████▒░░░░░░░░   65.66 %
-Go                 141 hrs 54 mins ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
-JSON               71 hrs 28 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Other              42 hrs 56 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-HTML               17 hrs 48 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+JavaScript         604 hrs 4 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀   65.66 %
+Go                 141 hrs 54 mins ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.42 %
+JSON               71 hrs 28 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.77 %
+Other              42 hrs 56 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.67 %
+HTML               17 hrs 48 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.94 %
 ```
 
 <!--END_SECTION:waka-->
