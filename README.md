@@ -58,7 +58,7 @@
 
 ###
 
-Development Breakdown Wakatime
+Wakatime - Development Breakdown
 <!--START_SECTION:waka-->
 
 ```txt
