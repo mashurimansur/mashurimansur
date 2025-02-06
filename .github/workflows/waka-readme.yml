@@ -18,7 +18,5 @@ jobs:
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TOTAL: true
-          COMMITTER_NAME: Mashuri Mansur
-          COMMITTER_EMAIL: mashurimansur18@mgail.com
           AUTHOR_NAME: Mashuri Mansur
           AUTHOR_EMAIL: mashurimansur18@gmail.com
