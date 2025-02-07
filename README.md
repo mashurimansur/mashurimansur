@@ -42,14 +42,14 @@
 ###
 
 <div align="left">
-  <a href="http://discordapp.com/users/412498553890537472">
+  <a href="http://discordapp.com/users/412498553890537472" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/mashuri-m-66ab79a7/">
+  <a href="https://www.linkedin.com/in/mashuri-m-66ab79a7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://ko-fi.com/mashurimansur">
+  <a href="https://ko-fi.com/mashurimansur" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />  
   </a>
 </div>
