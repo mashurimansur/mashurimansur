@@ -54,13 +54,15 @@
   </a>
 </div>
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=mashurimansur)](https://holopin.io/@mashurimansur)
-
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mashurimansur/mashurimansur/output/snake.svg" alt="Snake animation" />
+
+###
+
+[![@mashurimansur's Holopin board](https://holopin.io/api/user/board?user=mashurimansur)](https://holopin.io/@mashurimansur)
 
 ###
 
