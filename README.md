@@ -62,7 +62,7 @@
 
 ###
 
-[![@mashurimansur's Holopin board](https://holopin.io/api/user/board?user=mashurimansur)](https://holopin.io/@mashurimansur)
+[![An image of @mashurimansur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mashurimansur)](https://holopin.io/@mashurimansur)
 
 ###
 
