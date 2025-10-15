@@ -54,9 +54,7 @@
   </a>
 </div>
 
-<a href='https://holopin.io/@mashurimansur'>
-    <img src='https://holopin.onrender.com/mashurimansur'/>
-</a>
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=mashurimansur)](https://holopin.io/@mashurimansur)
 
 ###
 
